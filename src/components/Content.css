@@ -1,0 +1,7 @@
+.main {
+  position: relative;
+  width: auto;
+  height: auto;
+  border-radius: 28px;
+  backdrop-filter: blur(30px) brightness(120%);
+}

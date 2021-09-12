@@ -1,0 +1,30 @@
+{
+  "short_name": "Jony Jas",
+  "name": "Jony Jas's Profile",
+  "icons": [
+    {
+      "src": "j-128.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "j-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "j-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "j-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#363333",
+  "background_color": "#e6e6e6"
+}

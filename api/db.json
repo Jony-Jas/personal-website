@@ -1,0 +1,187 @@
+{
+    "academic" : [
+        {
+        "title" : "Academic", 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/skcet%402x.png?alt=media", 
+        "content":{
+            "Name" : " SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+            "description" : " Degree Name: Bachelor of Engineering - B.E Electronics and Communications Engineering<br/>Expected graduation: 2020 – 2024<br/>Activities and Societies: FOSEE IIT Bombay Hackathon, Toycathon 2021"
+        }
+        },
+        {
+            "title" : "Academic", 
+            "img" : "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/excel%402x.png?alt=media", 
+            "content":{
+                "Name" : "Excel Central School",
+                "description" : "Degree Name: 12th<br/>Field Of Study: Mathematics, Science Grade 90%<br/>Dates attended or Expected graduation: 2018 – 2020<br/>Activities and Societies: Olympiad and other competitive exams, Excel Q Team"
+        }
+        },
+        {
+            "title" : "Academic", 
+            "img" : "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/sbj.png?alt=media", 
+            "content":{
+                "Name" : "SBJ Vidya Bhavan International School",
+                "description" : "Degree Name: 10th<br/>Field Of Study: Science,Mathematics,Computer Grade 84%<br/>Dates attended or expected graduation: 2016 – 2018<br/>Activities and Societies: Quiz Team, NIU Project, District Athletics"
+        }
+        }
+    ],
+    "experience" : [
+        {
+            "title" : "Experience",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/cvDragon.gif?alt=media",
+            "content" :{
+                "Name":"cvDragon",
+                "description":"Campus Ambassador - Part-Time<br/>Dates Employed: Jul 2021 – Present<br/>Employment Duration: 2 Months"
+            }            
+        },
+        {
+            "title" : "Experience",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/bookking.jpg?alt=media",
+            "content" :{
+                "Name":"BookKing",
+                "description":"Design Intern - Internship<br/>Dates Employed: Feb 2021 – Mar 2021<br/>Employment Duration: 1 Months"
+            }
+        },
+        {
+            "title" : "Experience",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/youtube.png?alt=media",
+            "content" :{
+                "Name":"Tech Youtuber",
+                "description":"Content Creator-Self - employed<br/>Dates Employed: Jul 2018 – Mar 2021<br/>Employment Duration: 2 Year 9 Months"
+            }
+        }
+    ],
+    "projects" : [
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Personal Website (Jul-Aug 2021)",
+                "description":"Project description: Build my own personal website 🌐 Build using React and Redux. Also made use of json-server to store data.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-website' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Tinder Clone (Jul 2021)",
+                "description":"This tinder clone was build using MERN stack. All the data are stored in MongoDB and used React as frontend.<br/><a target='_blank' href='https://github.com/Jony-Jas/tinder-clone' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Exercise Tracker (Jul 2021)",
+                "description":"With this app, you can keep track of the exercise you have completed. Built using MERN stack.<br/><a target='_blank' href='https://github.com/Jony-Jas/exercise-tracker' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Streamy - video streamer (Jul 2021)",
+                "description":"A simple video steamer using React, rtmpserver and node.js in backend.<br/><a target='_blank' href='https://github.com/Jony-Jas/video-streamer' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Furniture website protoype (Jun 2021)",
+                "description":"Project description: Prototype for Maynooth Furniture website. It includes micro-interactions and lots of wire framing. Build using Adobe XD 🔧<br/><a target='_blank' href='https://github.com/Jony-Jas/furniture-website-prototype' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Goods manager (May 2021)",
+                "description":"Project description : Goods manager help to keeps track of the goods you have on your shelves. Build with EJS and Nodejs<br/><a target='_blank' href='https://github.com/Jony-Jas/goods-manager' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Snake 'n' Food (Apr 2021)",
+                "description":"Project description : Classic snake game built from scratch.<br/><a target='_blank' href='https://github.com/Jony-Jas/snake-n-food' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/transparent.png?alt=media",
+            "content" :{
+                "Name":"See More...",
+                "description":"<a target='_blank' href='https://github.com/Jony-Jas/' style='font-style:italic'>Click here</a>"
+            }
+        }
+],
+    "certifications" : [
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
+            "content" :{
+                "Name":"Complete Code camp on Programming!",
+                "description":"Issued By : Udemy<br/>Issued date :  Aug 2021<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-9412cfa1-aee4-43c5-a627-c3ca16691278/' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/matlab.png?alt=media",
+            "content" :{
+                "Name":"Image Processing Onramp",
+                "description":"Issued By : MathWorks<br/>Issued date :  Jul 2021<br/><a target='_blank' href='https://matlabacademy.mathworks.com/progress/share/certificate.html?id=263453d3-9897-4fbf-bab0-b3a6da3f6d57' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
+            "content" :{
+                "Name":"Modern React with Redux",
+                "description":"Issued By : Udemy<br/>Issued date :  Jul 2021<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-8f606a3e-2b83-4cf0-af17-60df14cb9933/' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
+            "content" :{
+                "Name":"User Experience Design Essentials",
+                "description":"Issued By : Udemy<br/>Issued date :  Jun 2021<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-58c35583-1b94-46cc-b069-2c33bb6f2d72/' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/skillup.jpg?alt=media",
+            "content" :{
+                "Name":"Foundations of Artificial Intelligence",
+                "description":"Issued By : Skill-Up<br/>Issued date :  Feb 2021<br/><a target='_blank' href='https://in.skillup.online/certificates/user/104555/course/course-v1:SkillUp+SKOAI101+2020_Q4' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/coursera.png?alt=media",
+            "content" :{
+                "Name":"HTML, CSS, and JavaScript for Web Developers",
+                "description":"Issued By : Coursera-elearning<br/>Issued date :  Jan 2021<br/><a target='_blank' href='https://coursera.org/verify/E5U5A77WQ5QE' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/automation-anywhere.png?alt=media",
+            "content" :{
+                "Name":"Getting Started with Robotic Process Automation (RPA)",
+                "description":"Issued By : Automation Anywhere<br/>Issued date :  Dec 2020<br/><a target='_blank' href='https://drive.google.com/file/d/1Ke9-1gUP675zyXLiN6pgpnRyCtimKfUV/view?usp=drivesdk' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/cisco.jpg?alt=media",
+            "content" :{
+                "Name":"Introduction to Cybersecurity",
+                "description":"Issued By : Cisco Networking Academy<br/>Issued date :  Dec 2020<br/><a target='_blank' href='https://www.youracclaim.com/badges/e46ca40f-6efa-4e87-bf42-fd3d180e17db?source=linked_in_profile' style='font-style:italic'>See credential</a>"
+            }
+        }
+    ]
+}

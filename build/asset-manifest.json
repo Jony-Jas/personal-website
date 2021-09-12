@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9143537.chunk.css",
+    "main.js": "/static/js/main.70098202.chunk.js",
+    "main.js.map": "/static/js/main.70098202.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f2097a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f2097a0.js.map",
+    "static/js/2.4c4def70.chunk.js": "/static/js/2.4c4def70.chunk.js",
+    "static/js/2.4c4def70.chunk.js.map": "/static/js/2.4c4def70.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c9143537.chunk.css.map": "/static/css/main.c9143537.chunk.css.map",
+    "static/js/2.4c4def70.chunk.js.LICENSE.txt": "/static/js/2.4c4def70.chunk.js.LICENSE.txt",
+    "static/media/Profile@2x.7afeec6b.png": "/static/media/Profile@2x.7afeec6b.png",
+    "static/media/apps@2x.d23bd3ed.png": "/static/media/apps@2x.d23bd3ed.png",
+    "static/media/badge@2x.25012104.png": "/static/media/badge@2x.25012104.png",
+    "static/media/cloud-icons@2x.bf0df13b.png": "/static/media/cloud-icons@2x.bf0df13b.png",
+    "static/media/crt@2x.4bbc85b8.png": "/static/media/crt@2x.4bbc85b8.png",
+    "static/media/design_1.bbda9f11.png": "/static/media/design_1.bbda9f11.png",
+    "static/media/edu@2x.41a0ffa6.png": "/static/media/edu@2x.41a0ffa6.png",
+    "static/media/exp@2x.e8b28da9.png": "/static/media/exp@2x.e8b28da9.png",
+    "static/media/iit.7b7ab9c2.png": "/static/media/iit.7b7ab9c2.png",
+    "static/media/prj@2x.ad472d14.png": "/static/media/prj@2x.ad472d14.png",
+    "static/media/resume-icon@2x.04889991.png": "/static/media/resume-icon@2x.04889991.png",
+    "static/media/sbj.b258409b.png": "/static/media/sbj.b258409b.png",
+    "static/media/thulir.35fa4937.png": "/static/media/thulir.35fa4937.png",
+    "static/media/working@2x.3a71dd31.png": "/static/media/working@2x.3a71dd31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f2097a0.js",
+    "static/js/2.4c4def70.chunk.js",
+    "static/css/main.c9143537.chunk.css",
+    "static/js/main.70098202.chunk.js"
+  ]
+}

@@ -1,0 +1,38 @@
+
+.section2 h1 {
+  color: var(--header-text-color);
+  font-family: "Playfair Display", serif;
+  font-size: 46px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.section2Container {
+  margin-bottom: 50px !important;
+}
+
+.apps {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.apps img {
+  max-width: 80% !important;
+}
+
+.working {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.working img {
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .section2 h1 {
+    font-size: 8vw;
+  }
+}

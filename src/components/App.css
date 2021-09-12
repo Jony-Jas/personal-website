@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+:root {
+  --background-main: linear-gradient(45deg, #3660ec, #89fffd);
+  --header-text-color: #363333;
+  --text-color: #5a5454;
+  --modal-background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 255) 0%,
+    rgba(253, 253, 253, 255) 0%,
+    rgba(137, 255, 253, 255) 100%
+  );
+}
+[data-theme="dark"] {
+  --background-main: linear-gradient(45deg, #3660ec, #11036d);
+  --header-text-color: #ffff;
+  --text-color: #e6e6e6;
+  --modal-background: linear-gradient(
+    -180.25726069778deg,
+    rgba(255, 255, 255, 255) 0%,
+    rgba(253, 253, 253, 255) 0%,
+    rgba(54, 96, 236, 255) 100%
+  );
+}
+#root {
+  background: var(--background-main);
+}
+html,
+body {
+  height: auto;
+  overflow-x: clip;
+  scroll-behavior: smooth;
+  background: linear-gradient(136deg, #3660ec, #89fffd);
+}

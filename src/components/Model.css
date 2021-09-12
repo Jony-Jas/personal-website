@@ -1,0 +1,50 @@
+.icon.close {
+  background-color: red;
+  border-radius: 50px;
+}
+.ui.modal > .close {
+  top: 0.9rem;
+  right: 5px;
+  color: white;
+}
+.listIcon {
+  width: 80px !important;
+  top: 35px;
+}
+.modalbg {
+  background-image: var(--modal-background) !important;
+}
+
+.bgIcon {
+  position: fixed !important;
+  top: 30%;
+  left: 70%;
+  opacity: 0.175;
+}
+.modalLists {
+  padding-bottom: 30px !important;
+  border-bottom: solid;
+  border-color: #00000075;
+}
+
+#modal h1 {
+  font-family: "Playfair Display", serif;
+}
+
+#modal b  {
+  font-family: "Roboto Condensed", sans-serif;
+}
+#modal p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+}
+
+@media (max-width: 461px) {
+  .listIcon {
+    width: 80px !important;
+    top: auto !important;
+  }
+  .modalLists {
+    margin-top: 20px;
+  }
+}

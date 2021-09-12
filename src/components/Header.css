@@ -1,0 +1,255 @@
+.main_div {
+  position: relative;
+  height: 100px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 20px;
+}
+
+/* First layer of header */
+.header-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  width: 100%;
+}
+.ui.header:first-child {
+  margin-top: 0px;
+}
+#rectangle_1 {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 65px;
+  border-radius: 60px;
+  -webkit-backdrop-filter: blur(30px) brightness(125%);
+  backdrop-filter: blur(30px) brightness(125%);
+}
+#circle_1,
+#circle_2 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px / 50px;
+  filter: blur(5px);
+}
+#circle_1 {
+  position: relative;
+  background-color: #89fffd;
+  left: 5px;
+}
+#circle_2 {
+  position: relative;
+  background-color: #ef32d9;
+  right: 5px;
+}
+/* End of First layer of header */
+
+/* Second layer of header */
+.header-2 {
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  width: 100%;
+}
+
+.topic {
+  color: var(--header-text-color);
+  font-size: 40px;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.41);
+  font-family: "Playfair Display", serif;
+  margin-right: 10px;
+}
+
+#circle_3,
+#circle_4 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px / 50px;
+  -webkit-backdrop-filter: blur(30px) brightness(105%);
+  backdrop-filter: blur(30px) brightness(105%);
+  min-width: 70px;
+}
+
+#circle_3 {
+  position: relative;
+}
+#circle_4 {
+  position: relative;
+}
+#rectangle_2 {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+/* End of Second layer of header */
+
+/* Third layer of header */
+.header-3 {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 100%;
+}
+.img-logo {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  top: 6px;
+  left: 6px;
+  cursor: pointer;
+}
+.img-msglogo {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 8px;
+  left: -14px;
+  cursor: pointer;
+}
+#rectangle_3 {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+}
+/* End of Third layer of header */
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .main_div {
+    top: 0;
+    margin-bottom: 20px;
+  }
+
+  /* First layer of header */
+  #circle_1,
+  #circle_2 {
+    width: 55px;
+    height: 55px;
+    min-width: 50px;
+  }
+  /* End of First layer of header */
+
+  /* Third layer of header */
+  #rectangle_3 h1 {
+    font-size: 30px;
+  }
+
+  #circle_3,
+  #circle_4 {
+    width: 60px;
+    height: 60px;
+    min-width: 60px;
+  }
+
+  .img-logo {
+    height: 40px;
+    width: 40px;
+    top: 3px;
+    left: 7px;
+  }
+  .img-msglogo {
+    height: 30px;
+    width: 30px;
+    left: -13px;
+    top: 7px;
+  }
+  /* End of Third layer of header */
+}
+
+@media (min-width: 416px) and (max-width: 575px) {
+  .main_div {
+    top: 0;
+    margin-bottom: 20px;
+  }
+
+  /* First layer of header */
+  #rectangle_1 {
+    height: 55px;
+  }
+  #circle_1,
+  #circle_2 {
+    width: 50px;
+    height: 50px;
+    min-width: 47px;
+  }
+  /* End of First layer of header */
+
+  /* Third layer of header */
+  #rectangle_3 h1 {
+    font-size: 28px;
+  }
+  .topic {
+    text-shadow: 2px 2px 2px rgb(0 0 0 / 41%);
+  }
+  #circle_3,
+  #circle_4 {
+    width: 55px;
+    height: 55px;
+    min-width: 55px;
+  }
+  .img-logo {
+    height: 40px;
+    width: 40px;
+    top: 3px;
+    left: 5px;
+  }
+  .img-msglogo {
+    height: 30px;
+    width: 30px;
+    top: 7px;
+    left: -12px;
+  }
+  /* End of Third layer of header */
+}
+
+@media (max-width: 415px) {
+  .main_div {
+    top: 0;
+    margin-bottom: 20px;
+  }
+
+  /* First layer of header */
+  #rectangle_1 {
+    height: 55px;
+  }
+  #circle_1,
+  #circle_2 {
+    width: 45px;
+    height: 45px;
+    min-width: 40px;
+  }
+  /* End of First layer of header */
+
+  /* Third layer of header */
+  #rectangle_3 h1 {
+    font-size: 28px;
+  }
+  .topic {
+    text-shadow: 1.6px 2px 2px rgb(0 0 0 / 41%);
+  }
+  #circle_3,
+  #circle_4 {
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+  }
+  .img-logo {
+    height: 40px;
+    width: 40px;
+    top: 3px;
+    min-width: 40px;
+    min-height: 25.6px;
+    left: 3px;
+  }
+  .img-msglogo {
+    height: 30px;
+    width: 30px;
+    top: 6px;
+    min-width: 30px;
+    left: -9px;
+  }
+}
+/* End of Third layer of header */
