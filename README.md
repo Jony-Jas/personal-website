@@ -10,6 +10,5 @@ https://jonyjas.com/
 ![Screenshot 2021-08-24 101132](https://user-images.githubusercontent.com/74784363/130556984-5b7d843b-d83b-48a7-826b-3060f360dc91.png)
 
 #### Connect with me:
-* Instagram: https://www.instagram.com/jonyrockstar7/
 * Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
 * Github: https://github.com/Jony-Jas/
