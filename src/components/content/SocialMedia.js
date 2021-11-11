@@ -36,7 +36,7 @@ function SocialMedia() {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.instagram.com/jonyrockstar7/"
+                  href="https://www.instagram.com/jonyj.dev/"
                   className="in"
                 >
                   <i className="fab fa-instagram fa-2x"></i>

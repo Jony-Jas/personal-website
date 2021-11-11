@@ -85,7 +85,7 @@ class Section4 extends React.Component {
             <h1 className="mybg_heading">Background</h1>
           </div>
         </div>
-        <div data-aos="zoom-out-up">
+        {/* <div data-aos="zoom-out-up"> */}
           <div className="ui equal width column stackable grid bg_container">
             <div className="column">
               <div className="equal width row">
@@ -166,7 +166,7 @@ class Section4 extends React.Component {
               </div>
             </div>
           </div>
-        </div>
+        {/* </div> */}
         {this.openModal()}
       </div>
     );
